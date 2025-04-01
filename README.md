@@ -25,9 +25,10 @@ Use 'Add layer' option to add more layers
 Message Exchange Rounds = 3   #SPECIFY ROUNDS OF MESSAGE EXCHANGE
 ```
 
-## Run
+## Run the simulation
 
 ```bash
+git clone https://github.com/yasharyaa/relational_graph_web.git
 cd my-app
 npm start
 ```
