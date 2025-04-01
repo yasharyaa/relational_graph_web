@@ -2,15 +2,17 @@
 An interactive web simulation for relational graph methodology
 
 ## Description
-A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,vj)|vi,vj ∈V}) is a way of representing a neural network as a graph, which focus on message exchanges between neurons, rather than just the directed flow of data. At each round of mes sage exchange, each node sends messages to its neighbors,and aggregates incoming messages from its neighbors.
-
+A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,vj)|vi,vj ∈V}) is a way of representing neural network as a graph, which focuses on message exchanges between neurons, rather than just the directed flow of data. At each round of message exchange, each node sends messages to its neighbors and aggregates incoming messages from its neighbors. Under this representation, a variety of neural network architectures can be represented via relational graphs. We built a simple interactive web visualisation so interested people can understand the relational graph methodology more easily. 
 
 <div>
   <figure>          
-    <img src="141e948f-d418-4bec-a4b6-2aef76c561a4.png" width="350" alt="Image 1" />
+    <img src="https://gifyu.com/image/bMbXf" width="300" alt="Image 1" />
   </figure>
   <figure>
-    <img src="bae87c9f-4c18-4ed9-8541-578482b4f4ca.png" width="350" alt="Image 2" />
+    <img src="https://gifyu.com/image/bMbXa" width="150" alt="Image 2" />
+  </figure>
+  <figure>
+    <img src="https://gifyu.com/image/bMbXY" width="150" alt="Image 2" />
   </figure>
 </div>
 
