@@ -19,30 +19,22 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
 ### Example
 ```bash
 #example
-Nodes = 1280                 #SPECIFY NUMBER OF NODES
-communities = 10             #SPECIFY NUMBER OF COMMUNITIES
-edge_probability = 0.5       #INTRA-DENSITY, [0,1]
-mu =  0.5                    #INTER-DENSITY, [0,1]
-G, communities = generate_graph(n = Nodes, c = communities, p = edge_probability, mu = mu)
-intra, inter  = density_calculation(G =G , communities = communities)
+Layer 1 Nodes = 4             #SPECIFY NUMBER OF NODES in Layer 1
+Layer 1 Nodes = 4             #SPECIFY NUMBER OF NODES in Layer 2
+Use 'Add layer' option to add more layers
+Message Exchange Rounds = 3   #SPECIFY ROUNDS OF MESSAGE EXCHANGE
 ```
 
-## Benefits
-- Faster computation time, computationally inexpensive
-- Only depends on 4 variables
-- Returns Graph along with average inter & intra density
-- Includes visualization of generated community structure
-
-## Installation
+## Run
 
 ```bash
-cd simplified_lfr_benchmark_graph
-git clone https://github.com/yasharyaa/Simplified_LFR_Benchmark_Graph.git
+cd my-app
+npm start
 ```
 
 ## License
 
-**Simplified_LFR_Benchmark_Graph** is released under the GNU General Public License v3.0. Please see the [LICENSE](LICENSE) file for more information.
+**Relational_Graph_Web** is released under the GNU General Public License v3.0. Please see the [LICENSE](LICENSE) file for more information.
 
 ## Contributing
 
