@@ -20,7 +20,7 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
 ```bash
 #example
 Layer 1 Nodes = 4             #SPECIFY NUMBER OF NODES in Layer 1
-Layer 1 Nodes = 4             #SPECIFY NUMBER OF NODES in Layer 2
+Layer 2 Nodes = 4             #SPECIFY NUMBER OF NODES in Layer 2
 Use 'Add layer' option to add more layers
 Message Exchange Rounds = 3   #SPECIFY ROUNDS OF MESSAGE EXCHANGE
 ```
