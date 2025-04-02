@@ -4,6 +4,8 @@ An interactive web simulation for relational graph methodology
 ## Description
 A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,vj)|vi,vj ∈V}) is a way of representing neural network as a graph, which focuses on message exchanges between neurons, rather than just the directed flow of data. At each round of message exchange, each node sends messages to its neighbors and aggregates incoming messages from its neighbors. Under this representation, a variety of neural network architectures can be represented via relational graphs. We built a simple interactive web visualisation so interested people can understand the relational graph methodology more easily. 
 
+We use an n-node relational graph to represent an m-dim layer, then m mod n nodes have ⌊m/n⌋+1 dimensions each, remaining n − (m mod n) nodes will have ⌊m/n⌋ dimensions each.
+
 <div>
   <figure>          
     <img src="https://i.postimg.cc/Kjsbm93d/Screenshot-2025-04-01-165156.png' border='0' alt='Screenshot-2025-04-01-165156" width="731" alt="Image 1" />
