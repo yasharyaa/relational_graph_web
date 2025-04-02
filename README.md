@@ -6,13 +6,13 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
 
 <div>
   <figure>          
-    <img src="https://i.postimg.cc/vx9L0ZVf/Screenshot-2025-04-01-165128.png" width="300" alt="Image 1" />
+    <img src="https://postimg.cc/T5mF9J99" width="300" alt="Image 1" />
   </figure>
   <figure>
     <img src="https://i.postimg.cc/8srHpt0c/Screenshot-2025-04-01-165143.png" width="200" alt="Image 2" />
   </figure>
   <figure>
-    <img src="https://i.postimg.cc/0rZQhs8q/Screenshot-2025-04-01-165128.png" width="200" alt="Image 2" />
+    <img src="https://i.postimg.cc/0rZQhs8q/Screenshot-2025-04-01-165128.png" width="150" alt="Image 2" />
   </figure>
 </div>
 
