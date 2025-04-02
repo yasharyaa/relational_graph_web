@@ -9,10 +9,10 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
     <img src="https://i.postimg.cc/Kjsbm93d/Screenshot-2025-04-01-165156.png' border='0' alt='Screenshot-2025-04-01-165156" width="900" alt="Image 1" />
   </figure>
   <figure>
-    <img src="https://i.postimg.cc/0rZQhs8q/Screenshot-2025-04-01-165128.png" width="400" alt="Image 2" />
+    <img src="https://i.postimg.cc/7CfB9NP2/Screenshot-2025-04-01-165128.png" width="400" alt="Image 2" />
   </figure>
   <figure>
-    <img src="https://i.postimg.cc/8srHpt0c/Screenshot-2025-04-01-165143.png" width="300" alt="Image 2" />
+    <img src="https://i.postimg.cc/jWmMFJCk/Screenshot-2025-04-01-165143.png" width="300" alt="Image 2" />
   </figure>
 </div>
 
