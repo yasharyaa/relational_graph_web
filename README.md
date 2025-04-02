@@ -12,7 +12,7 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
     <img src="https://i.postimg.cc/7CfB9NP2/Screenshot-2025-04-01-165128.png' border='0' alt='Screenshot-2025-04-01-165128" width="300" alt="Image 2" />
   </figure>
   <figure>
-    <img src="https://i.postimg.cc/jWmMFJCk/Screenshot-2025-04-01-165143.png' border='0' alt='Screenshot-2025-04-01-165143" width="427" alt="Image 2" />
+    <img src="https://i.postimg.cc/jWmMFJCk/Screenshot-2025-04-01-165143.png' border='0' alt='Screenshot-2025-04-01-165143" width="425" alt="Image 2" />
   </figure>
 </div>
 
