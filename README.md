@@ -6,7 +6,7 @@ A relational Graph G = (V,E) (where, set V = {v1,...,vn} and edge set E⊆{(vi,v
 
 <div>
   <figure>          
-    <img src="https://i.postimg.cc/Kjsbm93d/Screenshot-2025-04-01-165156.png' border='0' alt='Screenshot-2025-04-01-165156" width="700" alt="Image 1" />
+    <img src="https://i.postimg.cc/Kjsbm93d/Screenshot-2025-04-01-165156.png' border='0' alt='Screenshot-2025-04-01-165156" width="750" alt="Image 1" />
   </figure>
   <figure>
     <img src="https://i.postimg.cc/7CfB9NP2/Screenshot-2025-04-01-165128.png' border='0' alt='Screenshot-2025-04-01-165128" width="300" alt="Image 2" />
